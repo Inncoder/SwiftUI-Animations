@@ -14,9 +14,9 @@ struct DownloadButton: View {
     @State private var right: CGPoint = CGPoint(x: 80, y: 70)
     @State private var height: CGFloat = 0
     @State private var rotation: Double = 0
-    @State private var offsetX: Double = 0
-    @State private var offsetY: CGFloat = 0
+    @State private var offset: (CGFloat, CGFloat) = (0, 0)
     @State private var color = Color.green
+    @State private var downloading = false
     
     var body: some View {
         VStack {
@@ -33,50 +33,56 @@ struct DownloadButton: View {
                 Arrow(left: left, right: right, height: height)
                     .stroke(color, style: StrokeStyle(lineWidth: 8, lineCap: .round))
                     .frame(width: 100, height: 100)
-                    .offset(x: 0, y: offsetY)
+                    .offset(x: 0, y: offset.1)
                     .rotationEffect(.degrees(rotation))
             }
             .onTapGesture {
-                withAnimation(Animation.linear(duration: 0.3)) {
-                    self.left = CGPoint(x: 50, y: 100)
-                    self.right = CGPoint(x: 50, y: 100)
-                }
-                DispatchQueue.main.asyncAfter(deadline: .now() + 0.3) {
-                    withAnimation(Animation.easeInOut(duration: 0.3)) {
-                        self.height = 28
-                        self.offsetY = -50
+                if !self.downloading {
+                    self.downloading = true
+                    withAnimation(Animation.linear(duration: 0.3)) {
+                        self.left = CGPoint(x: 50, y: 100)
+                        self.right = CGPoint(x: 50, y: 100)
                     }
-                }
-                DispatchQueue.main.asyncAfter(deadline: .now() + 0.8) {
-                    withAnimation(Animation.easeInOut(duration: 1)) {
-                        self.rotation = 360
-                        self.height = 100
-                        self.color = Color.white
+                    DispatchQueue.main.asyncAfter(deadline: .now() + 0.3) {
+                        withAnimation(Animation.easeInOut(duration: 0.3)) {
+                            self.height = 28
+                            self.offset.1 = -50
+                        }
                     }
-                }
-                DispatchQueue.main.asyncAfter(deadline: .now() + 2) {
-                    withAnimation(Animation.easeInOut(duration: 0.3)) {
+                    DispatchQueue.main.asyncAfter(deadline: .now() + 0.8) {
+                        withAnimation(Animation.easeInOut(duration: 1)) {
+                            self.rotation = 360
+                            self.height = 100
+                            self.color = Color.white
+                        }
                     }
-                }
-                DispatchQueue.main.asyncAfter(deadline: .now() + 2.3) {
-                    withAnimation(Animation.linear(duration: 0.2)) {
-                        self.offsetY += 17.5
+                    DispatchQueue.main.asyncAfter(deadline: .now() + 2) {
+                        withAnimation(Animation.easeInOut(duration: 0.3)) {
+                        }
                     }
-                    withAnimation(Animation.easeInOut(duration: 0.3).delay(0.2)) {
-                        self.offsetX = 2.5
-                        self.left = CGPoint(x: 35, y: 85)
-                        self.right = CGPoint(x: 70, y: 80)
+                    DispatchQueue.main.asyncAfter(deadline: .now() + 2.3) {
+                        withAnimation(Animation.linear(duration: 0.2)) {
+                            self.offset.1 += 17.5
+                        }
+                        withAnimation(Animation.easeInOut(duration: 0.3).delay(0.2)) {
+                            self.offset.0 = 2.5
+                            self.left = CGPoint(x: 35, y: 85)
+                            self.right = CGPoint(x: 70, y: 80)
+                        }
+                        self.downloading = false
                     }
                 }
             }
             Button(action: {
-                self.left = CGPoint(x: 20, y: 70)
-                self.right = CGPoint(x: 80, y: 70)
-                self.height = 0
-                self.rotation = 0
-                self.offsetX = 0
-                self.offsetY = 0
-                self.color = Color.green
+                if !self.downloading {
+                    self.left = CGPoint(x: 20, y: 70)
+                    self.right = CGPoint(x: 80, y: 70)
+                    self.height = 0
+                    self.rotation = 0
+                    self.offset = (0, 0)
+                    self.color = Color.green
+                    self.downloading = false
+                }
             }) {
                 Text("reset")
             }
