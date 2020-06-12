@@ -5,6 +5,6 @@ Code from instagram posts
 ## Folder
 
 ### DownloadButton
-![](DownloadBtnVid.mov)
+![](DownloadButton.gif)
 
 ### ShareButton - soon
