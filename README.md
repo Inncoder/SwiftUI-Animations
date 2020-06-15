@@ -5,7 +5,10 @@ Code from instagram posts
 ## Folder
 
 ### DownloadButton
-![](DownloadButton.gif)
+![](Gifs/DownloadButton.gif)
 
 ### ShareButton
-![](ShareButton.gif)
+![](Gifs/ShareButton.gif)
+
+### CreditCardFlip
+![](Gifs/CreditCardFlip.gif)
