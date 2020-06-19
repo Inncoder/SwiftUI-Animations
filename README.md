@@ -5,16 +5,16 @@ Code from instagram posts
 ## Folder
 
 ### DownloadButton
-![](Gifs/DownloadButton.gif)
+![](InstaPosts/Gifs/DownloadButton.gif)
 
 ### ShareButton
-![](Gifs/ShareButton.gif)
+![](InstaPosts/Gifs/ShareButton.gif)
 
 ### CreditCardFlip
-![](Gifs/CreditCardFlip.gif)
+![](InstaPosts/Gifs/CreditCardFlip.gif)
 
 ### Twitter
-![](Gifs/twitter.gif)
+![](InstaPosts/Gifs/twitter.gif)
 
 ### Menu
-![](Gifs/Menu.gif)
+![](InstaPosts/Gifs/Menu.gif)
