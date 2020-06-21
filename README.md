@@ -18,3 +18,6 @@ Code from instagram posts
 
 ### Menu
 ![](InstaPosts/Gifs/Menu.gif)
+
+### Slider
+![](InstaPosts/Gifs/Slider.gif)
