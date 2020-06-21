@@ -21,3 +21,6 @@ Code from instagram posts
 
 ### Slider
 ![](InstaPosts/Gifs/Slider.gif)
+
+### Reddit
+![](InstaPosts/Gifs/reddit.gif)
