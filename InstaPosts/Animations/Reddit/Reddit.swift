@@ -62,7 +62,26 @@ struct Reddit: View {
     }
 }
 
-
+struct Fluid: Shape {
+    var time: CGFloat
+    let width: CGFloat
+    let height: CGFloat
+    let curveHeight: CGFloat
+    let curveLength: CGFloat
+    
+    func path(in rect: CGRect) -> Path {
+        return (
+            Path { path in
+                path.move(to: CGPoint(x: width, y: height*2))
+                path.addLine(to: CGPoint(x: 0, y: height*2))
+                for i in stride(from: 0, to: CGFloat(rect.width), by: 1) {
+                    path.addLine(to: CGPoint(x: i, y: sin(((i / rect.height) + time) * curveLength * .pi) * curveHeight + rect.midY))
+                }
+                path.addLine(to: CGPoint(x: width, y: height*2))
+            }
+        )
+    }
+}
 
 
 
