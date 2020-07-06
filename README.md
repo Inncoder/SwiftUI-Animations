@@ -30,4 +30,4 @@ Code from instagram posts
 ![](InstaPosts/Gifs/HeartButton.gif)
 
 ### AppleLock
-![](InstaPosts/Gifs/AppleLock.gif)
+![](InstaPosts/Gifs/appleLock.gif)
