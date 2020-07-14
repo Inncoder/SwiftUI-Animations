@@ -34,3 +34,6 @@ Code from instagram posts
 
 ### Like Button
 ![](InstaPosts/Gifs/LikeButton.gif)
+
+### Star Rating
+![](InstaPosts/Gifs/StaRrating.gif)
