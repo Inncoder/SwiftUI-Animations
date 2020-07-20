@@ -37,3 +37,6 @@ Code from instagram posts
 
 ### Star Rating
 ![](InstaPosts/Gifs/StaRrating.gif)
+
+### Darkmode Button
+![](InstaPosts/Gifs/ToggleButton.gif)
