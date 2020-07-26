@@ -36,7 +36,10 @@ Code from instagram posts
 ![](InstaPosts/Gifs/LikeButton.gif)
 
 ### Star Rating
-![](InstaPosts/Gifs/StaRrating.gif)
+![](InstaPosts/Gifs/StarRating.gif)
 
 ### Darkmode Button
 ![](InstaPosts/Gifs/ToggleButton.gif)
+
+### Recording Ripple
+![](InstaPosts/Gifs/RecordRipple.gif)
