@@ -43,3 +43,6 @@ Code from instagram posts
 
 ### Recording Ripple
 ![](InstaPosts/Gifs/RecordRipple.gif)
+
+### Loading Screen
+![](InstaPosts/Gifs/LoadingScreen.gif)
