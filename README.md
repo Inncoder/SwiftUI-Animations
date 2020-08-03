@@ -46,3 +46,6 @@ Code from instagram posts
 
 ### Loading Screen
 ![](InstaPosts/Gifs/LoadingScreen.gif)
+
+### Tab Bar
+![](InstaPosts/Gifs/TabBar.gif)
