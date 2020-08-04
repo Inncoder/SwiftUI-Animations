@@ -13,7 +13,7 @@ GitHub: [InnAppsCoding](https://github.com/InnAppsCoding)
 ## GIF's and link's to the code 
 
 ### Tab Bar
-![](InstaPosts/Gifs/TabBar.gif)
+![](Gifs/TabBar.gif)
 #### [Link to code](https://github.com/InnAppsCoding/SwiftUI-Animations/tree/master/Animations/TabBar)
 ---
 ### Twitter
@@ -25,11 +25,11 @@ GitHub: [InnAppsCoding](https://github.com/InnAppsCoding)
 #### [Link to code](https://github.com/InnAppsCoding/SwiftUI-Animations/tree/master/Animations/CreditCardFlip)
 ---
 ### DownloadButton
-![](InstaPosts/Gifs/DownloadButton.gif)
+![](Gifs/DownloadButton.gif)
 #### [Link to code](https://github.com/InnAppsCoding/SwiftUI-Animations/tree/master/Animations/Download%20Button)
 ---
 ### ShareButton
-![](InstaPosts/Gifs/ShareButton.gif)
+![](Gifs/ShareButton.gif)
 #### [Link to code](https://github.com/InnAppsCoding/SwiftUI-Animations/tree/master/Animations/Share%20Button)
 ---
 ### Menu
@@ -37,30 +37,30 @@ GitHub: [InnAppsCoding](https://github.com/InnAppsCoding)
 #### [Link to code](https://github.com/InnAppsCoding/SwiftUI-Animations/tree/master/Animations/Menu)
 ---
 ### Slider
-![](InstaPosts/Gifs/Slider.gif)
+![](Gifs/Slider.gif)
 #### [Link to code](https://github.com/InnAppsCoding/SwiftUI-Animations/tree/master/Animations/Menu)
 ---
 ### Reddit
-![](InstaPosts/Gifs/reddit.gif)
+![](Gifs/reddit.gif)
 #### [Link to code](https://github.com/InnAppsCoding/SwiftUI-Animations/tree/master/Animations/Reddit)
 ---
 ### HeartLikeButton
-![](InstaPosts/Gifs/HeartButton.gif)
+![](Gifs/HeartButton.gif)
 #### [Link to code](https://github.com/InnAppsCoding/SwiftUI-Animations/tree/master/Animations/HeartButton)
 ---
 ### Like Button
-![](InstaPosts/Gifs/LikeButton.gif)
+![](Gifs/LikeButton.gif)
 #### [Link to code](https://github.com/InnAppsCoding/SwiftUI-Animations/tree/master/Animations/LikeButton)
 ---
 ### Star Rating
-![](InstaPosts/Gifs/StarRating.gif)
+![](Gifs/StarRating.gif)
 #### [Link to code](https://github.com/InnAppsCoding/SwiftUI-Animations/tree/master/Animations/StarRating)
 ---
 ### Darkmode Button
-![](InstaPosts/Gifs/ToggleButton.gif)
+![](Gifs/ToggleButton.gif)
 #### [Link to code](https://github.com/InnAppsCoding/SwiftUI-Animations/tree/master/Animations/ToggleButton)
 ---
 ### Loading Screen
-![](InstaPosts/Gifs/LoadingScreen.gif)
+![](Gifs/LoadingScreen.gif)
 #### [Link to code](https://github.com/InnAppsCoding/SwiftUI-Animations/tree/master/Animations/LoadingScreen)
 ---
