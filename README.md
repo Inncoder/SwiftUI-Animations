@@ -14,43 +14,53 @@ GitHub: [InnAppsCoding](https://github.com/InnAppsCoding)
 
 ### Tab Bar
 ![](InstaPosts/Gifs/TabBar.gif)
-#### [Link to code](https://github.com/InnAppsCoding/InstagramPosts/tree/master/InstaPosts/Animations/TabBar)
+#### [Link to code](https://github.com/InnAppsCoding/SwiftUI-Animations/tree/master/Animations/TabBar)
 ---
 ### Twitter
 ![](InstaPosts/Gifs/twitter.gif)
-#### [Link to code](https://github.com/InnAppsCoding/InstagramPosts/tree/master/InstaPosts/Animations/ShareTwitter)
+#### [Link to code](https://github.com/InnAppsCoding/SwiftUI-Animations/tree/master/Animations/ShareTwitter)
 ---
 ### CreditCardFlip
 ![](InstaPosts/Gifs/CreditCardFlip.gif)
-#### [Link to code](https://github.com/InnAppsCoding/InstagramPosts/tree/master/InstaPosts/Animations/CreditCardFlip)
+#### [Link to code](https://github.com/InnAppsCoding/SwiftUI-Animations/tree/master/Animations/CreditCardFlip)
 ---
 ### DownloadButton
 ![](InstaPosts/Gifs/DownloadButton.gif)
+#### [Link to code](https://github.com/InnAppsCoding/SwiftUI-Animations/tree/master/Animations/Download%20Button)
 ---
 ### ShareButton
 ![](InstaPosts/Gifs/ShareButton.gif)
+#### [Link to code](https://github.com/InnAppsCoding/SwiftUI-Animations/tree/master/Animations/Share%20Button)
 ---
 ### Menu
 ![](InstaPosts/Gifs/Menu.gif)
+#### [Link to code](https://github.com/InnAppsCoding/SwiftUI-Animations/tree/master/Animations/Menu)
 ---
 ### Slider
 ![](InstaPosts/Gifs/Slider.gif)
+#### [Link to code](https://github.com/InnAppsCoding/SwiftUI-Animations/tree/master/Animations/Menu)
 ---
 ### Reddit
 ![](InstaPosts/Gifs/reddit.gif)
+#### [Link to code](https://github.com/InnAppsCoding/SwiftUI-Animations/tree/master/Animations/Reddit)
 ---
 ### HeartLikeButton
 ![](InstaPosts/Gifs/HeartButton.gif)
+#### [Link to code](https://github.com/InnAppsCoding/SwiftUI-Animations/tree/master/Animations/HeartButton)
 ---
 ### Like Button
 ![](InstaPosts/Gifs/LikeButton.gif)
+#### [Link to code](https://github.com/InnAppsCoding/SwiftUI-Animations/tree/master/Animations/LikeButton)
 ---
 ### Star Rating
 ![](InstaPosts/Gifs/StarRating.gif)
+#### [Link to code](https://github.com/InnAppsCoding/SwiftUI-Animations/tree/master/Animations/StarRating)
 ---
 ### Darkmode Button
 ![](InstaPosts/Gifs/ToggleButton.gif)
+#### [Link to code](https://github.com/InnAppsCoding/SwiftUI-Animations/tree/master/Animations/ToggleButton)
 ---
 ### Loading Screen
 ![](InstaPosts/Gifs/LoadingScreen.gif)
+#### [Link to code](https://github.com/InnAppsCoding/SwiftUI-Animations/tree/master/Animations/LoadingScreen)
 ---
