@@ -17,11 +17,11 @@ GitHub: [InnAppsCoding](https://github.com/InnAppsCoding)
 #### [Link to code](https://github.com/InnAppsCoding/SwiftUI-Animations/tree/master/Animations/TabBar)
 ---
 ### Twitter
-![](InstaPosts/Gifs/twitter.gif)
+![](Gifs/twitter.gif)
 #### [Link to code](https://github.com/InnAppsCoding/SwiftUI-Animations/tree/master/Animations/ShareTwitter)
 ---
 ### CreditCardFlip
-![](InstaPosts/Gifs/CreditCardFlip.gif)
+![](Gifs/CreditCardFlip.gif)
 #### [Link to code](https://github.com/InnAppsCoding/SwiftUI-Animations/tree/master/Animations/CreditCardFlip)
 ---
 ### DownloadButton
@@ -33,12 +33,12 @@ GitHub: [InnAppsCoding](https://github.com/InnAppsCoding)
 #### [Link to code](https://github.com/InnAppsCoding/SwiftUI-Animations/tree/master/Animations/Share%20Button)
 ---
 ### Menu
-![](InstaPosts/Gifs/Menu.gif)
+![](Gifs/Menu.gif)
 #### [Link to code](https://github.com/InnAppsCoding/SwiftUI-Animations/tree/master/Animations/Menu)
 ---
 ### Slider
 ![](Gifs/Slider.gif)
-#### [Link to code](https://github.com/InnAppsCoding/SwiftUI-Animations/tree/master/Animations/Menu)
+#### [Link to code](https://github.com/InnAppsCoding/SwiftUI-Animations/tree/master/Animations/Slider)
 ---
 ### Reddit
 ![](Gifs/reddit.gif)
@@ -58,7 +58,7 @@ GitHub: [InnAppsCoding](https://github.com/InnAppsCoding)
 ---
 ### Darkmode Button
 ![](Gifs/ToggleButton.gif)
-#### [Link to code](https://github.com/InnAppsCoding/SwiftUI-Animations/tree/master/Animations/ToggleButton)
+#### [Link to code](https://github.com/InnAppsCoding/SwiftUI-Animations/tree/master/Animations/DarkmodeToggle)
 ---
 ### Loading Screen
 ![](Gifs/LoadingScreen.gif)
