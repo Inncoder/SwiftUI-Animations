@@ -10,8 +10,12 @@ Twitter: [@InnAppsCoding](https://twitter.com/InnAppsCoding)
 Facebook: [InnAppsCoding](https://www.facebook.com/innappscoding-103232011437686)  
 GitHub: [InnAppsCoding](https://github.com/InnAppsCoding)  
 
-## GIF's and link's to the code 
+## GIF's and link's to the code
 
+### DNA Loading
+![](Gifs/DNALoading.gif)
+#### [Link to code](https://github.com/InnAppsCoding/SwiftUI-Animations/tree/master/Animations/DNALoading)
+---
 ### Tab Bar
 ![](Gifs/TabBar.gif)
 #### [Link to code](https://github.com/InnAppsCoding/SwiftUI-Animations/tree/master/Animations/TabBar)
