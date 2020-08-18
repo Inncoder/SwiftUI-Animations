@@ -4,10 +4,10 @@ Hi! This is a repository where i publish code for the animations you see on my [
 I'm a iOS developer learning Swift and SwiftUI. I create and post animations for fun and to show people how easy it is to create animations in SwiftUI!  
 
 #### If you like what you see, feel free to follow me on my social medias!  
-Instagram: [@InnAppsCoding](https://www.instagram.com/innappscoding/)  
+Instagram: [@Inncoder](https://www.instagram.com/inncoder/)  
 Twitter: [@InnAppsCoding](https://twitter.com/InnAppsCoding)  
 Facebook: [InnAppsCoding](https://www.facebook.com/innappscoding-103232011437686)  
-GitHub: [InnAppsCoding](https://github.com/InnAppsCoding)  
+GitHub: [Inncoder](https://github.com/Inncoder)  
 
 ## GIF's and link's to the code
 
