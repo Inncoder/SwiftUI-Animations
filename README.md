@@ -5,7 +5,7 @@ I'm a iOS developer learning Swift and SwiftUI. I create and post animations for
 
 #### If you like what you see, feel free to follow me on my social medias!  
 Instagram: [@Inncoder](https://www.instagram.com/inncoder/)  
-Twitter: [@InnAppsCoding](https://twitter.com/InnAppsCoding)  
+Twitter: [@Inncoder_](https://twitter.com/Inncoder_)  
 Facebook: [InnAppsCoding](https://www.facebook.com/innappscoding-103232011437686)  
 GitHub: [Inncoder](https://github.com/Inncoder)  
 
