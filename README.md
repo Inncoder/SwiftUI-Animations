@@ -11,6 +11,10 @@ GitHub: [Inncoder](https://github.com/Inncoder)
 
 ## GIF's and link's to the code
 
+### WiFi
+![](Gifs/Wifi.gif)
+#### [Link to code](https://github.com/InnAppsCoding/SwiftUI-Animations/tree/master/Animations/Wifi)
+---
 ### DNA Loading
 ![](Gifs/DNALoading.gif)
 #### [Link to code](https://github.com/InnAppsCoding/SwiftUI-Animations/tree/master/Animations/DNALoading)
