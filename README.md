@@ -11,6 +11,10 @@ GitHub: [Inncoder](https://github.com/Inncoder)
 
 ## GIF's and link's to the code
 
+### Radar
+![](Gifs/Radar.gif)
+#### [Link to code](https://github.com/InnAppsCoding/SwiftUI-Animations/tree/master/Animations/Radar)
+---
 ### WiFi
 ![](Gifs/Wifi.gif)
 #### [Link to code](https://github.com/InnAppsCoding/SwiftUI-Animations/tree/master/Animations/Wifi)
