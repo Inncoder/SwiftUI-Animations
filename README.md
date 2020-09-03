@@ -11,6 +11,10 @@ GitHub: [Inncoder](https://github.com/Inncoder)
 
 ## GIF's and link's to the code
 
+### Sticker Darkmode Button
+![](Gifs/darkmode.gif)
+#### [Link to code](https://github.com/InnAppsCoding/SwiftUI-Animations/tree/master/Animations/StickerToggle)
+---
 ### Radar
 ![](Gifs/Radar.gif)
 #### [Link to code](https://github.com/InnAppsCoding/SwiftUI-Animations/tree/master/Animations/Radar)
