@@ -11,6 +11,10 @@ GitHub: [Inncoder](https://github.com/Inncoder)
 
 ## GIF's and link's to the code
 
+### Halfpipe
+![](Gifs/halfpipe.gif)
+#### [Link to code](https://github.com/InnAppsCoding/SwiftUI-Animations/tree/master/Animations/HalfpipeLoading)
+---
 ### Sticker Darkmode Button
 ![](Gifs/darkmode.gif)
 #### [Link to code](https://github.com/InnAppsCoding/SwiftUI-Animations/tree/master/Animations/StickerToggle)
