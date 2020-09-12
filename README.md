@@ -1,7 +1,7 @@
 # SwiftUI Animations
 
-Hi! This is a repository where i publish code for the animations you see on my [Instagram (@InnAppsCoding)](https://www.instagram.com/innappscoding/)  
-I'm a iOS developer learning Swift and SwiftUI. I create and post animations for fun and to show people how easy it is to create animations in SwiftUI!  
+Hi! This is a repository where i publish code for the animations you see on my [Instagram (@Inncoder)](https://www.instagram.com/inncoder/)  
+I'm a iOS developer learning Swift and SwiftUI. I create and post animations for fun and so people hopfully get some ideas and inspiration for their own apps!  
 
 #### If you like what you see, feel free to follow me on my social medias!  
 Instagram: [@Inncoder](https://www.instagram.com/inncoder/)  
