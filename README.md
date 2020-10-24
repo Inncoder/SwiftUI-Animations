@@ -3,8 +3,11 @@
 Hi! This is a repository where i publish code for the animations you see on my [Instagram (@Inncoder)](https://www.instagram.com/inncoder/)  
 I'm a iOS developer learning Swift and SwiftUI. I create and post animations for fun and so people hopfully get some ideas and inspiration for their own apps!  
 
+For more animations and code, check out my website inncoder.com/animations
+
 #### If you like what you see, feel free to follow me on my social medias!  
 Instagram: [@Inncoder](https://www.instagram.com/inncoder/)  
+Website: [inncoder.com](https://www.inncoder.com/)  
 Twitter: [@Inncoder_](https://twitter.com/Inncoder_)  
 Facebook: [InnAppsCoding](https://www.facebook.com/innappscoding-103232011437686)  
 GitHub: [Inncoder](https://github.com/Inncoder)  
